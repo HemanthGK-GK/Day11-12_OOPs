@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHfzP0DTTKRXkjCqDJmcBy3TCHM1DA9f9cb0Y59+HQ0Zwxri9tqNPXM0LRtHB7wQp5SA87xmDT5BW7qNcrXILA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91807\\Desktop\\Batch67\\1JsonDataManagement\\1JsonDataManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91807\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
