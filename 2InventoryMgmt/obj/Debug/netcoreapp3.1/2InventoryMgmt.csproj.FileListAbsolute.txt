@@ -1,0 +1,16 @@
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.exe
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.deps.json
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.dll
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\2InventoryMgmt.pdb
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.csproj.CopyComplete
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.dll
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.pdb
+C:\Users\91807\Desktop\Batch67\2InventoryMgmt\obj\Debug\netcoreapp3.1\2InventoryMgmt.genruntimeconfig.cache

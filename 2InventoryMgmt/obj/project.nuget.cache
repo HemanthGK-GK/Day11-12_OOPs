@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7HgV/j+O+mut5szRzswm4QskDD71d6fx2kftW8xDlG4WTHPOjJlXGQXEy2Oz6N8+w8mK8bLdR1zLZ3NkZsO5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91807\\Desktop\\Batch67\\2InventoryMgmt\\2InventoryMgmt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91807\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

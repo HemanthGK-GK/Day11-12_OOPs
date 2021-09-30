@@ -1,0 +1,7 @@
+{"TypesOfRice":
+[{"name":"Basumathi","weight":"1kg","Price":"220"},
+{"name":"Bullet","weight":"20kg","Price":"250"}],
+"TypesOfPulses":
+[{"name":"GreenGram","weight":"12kg","Price":"180"},
+{"name":"HourseGram","weight":"5kg","Price":"200"}]
+}
