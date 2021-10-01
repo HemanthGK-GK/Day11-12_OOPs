@@ -1,0 +1,16 @@
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.exe
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.deps.json
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.dll
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\StockMgmt.pdb
+C:\Users\91807\Desktop\Batch67\StockMgmt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.csproj.CopyComplete
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.dll
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.pdb
+C:\Users\91807\Desktop\Batch67\StockMgmt\obj\Debug\netcoreapp3.1\StockMgmt.genruntimeconfig.cache
